@@ -1,0 +1,6 @@
+/venv/
+/temp_dir/
+/build/
+/dist/
+/docker-scripts/
+*.spec
